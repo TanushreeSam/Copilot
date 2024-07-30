@@ -1,0 +1,158 @@
+.divCssUytgmz {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-31xl);
+  background-color: var(--color-navy);
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: normal;
+}
+.ap {
+  position: absolute;
+  top: 6.9px;
+  left: 11.8px;
+  line-height: 25.6px;
+}
+.divCss1m1repx,
+.spanCssXl71ch {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: normal;
+}
+.spanCssXl71ch {
+  top: 9px;
+  left: 191px;
+  width: 40px;
+  height: 40px;
+}
+.welcomeSamay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 25.6px;
+  white-space: nowrap;
+}
+.divCss1ivdpie,
+.itemChakraBreadcrumbList {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 63.5px;
+  height: 25.6px;
+  mix-blend-mode: normal;
+}
+.divCss1ivdpie {
+  top: 16px;
+  left: 17px;
+  width: 174px;
+  height: 26px;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+}
+.divCssKushu4 {
+  height: 56px;
+  width: 242px;
+  position: relative;
+  box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.18);
+  border-radius: var(--br-11xl);
+  background-color: var(--icon-color);
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  mix-blend-mode: normal;
+  font-size: var(--font-size-xs);
+}
+.welcomeBackSamay {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.welcomeBackSamayWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+  color: var(--color-silver-100);
+}
+.poweredBy {
+  text-decoration: none;
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 118px;
+  white-space: nowrap;
+}
+.poweredByWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.microsoft365CopilotIcon1 {
+  height: 48px;
+  width: 48px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.copilot {
+  text-decoration: none;
+  position: relative;
+  line-height: 26px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  min-width: 110px;
+  white-space: nowrap;
+}
+.copilotWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+  font-size: var(--font-size-11xl);
+  color: var(--color-darkslateblue);
+}
+.divCss4aslk7,
+.frameParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frameParent {
+  width: 302px;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+  color: var(--color-lightgray);
+}
+.divCss4aslk7 {
+  flex: 1;
+  border-radius: var(--br-base);
+  background-color: var(--color-ghostwhite);
+  justify-content: space-between;
+  padding: var(--padding-4xs) 0 var(--padding-5xs) var(--padding-10xl);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--icon-color);
+  font-family: var(--font-plus-jakarta-sans);
+}

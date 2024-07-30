@@ -1,0 +1,208 @@
+.div,
+.divCss158bx23 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  mix-blend-mode: normal;
+}
+.div {
+  flex: 1;
+}
+.divCss158bx23 {
+  position: absolute;
+  top: 15.5px;
+  left: 0;
+  box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.08);
+  border-radius: var(--br-sm);
+  background-color: var(--icon-color);
+  width: 285px;
+  padding: 0 0 2.1px;
+  box-sizing: border-box;
+}
+.articles {
+  position: relative;
+  line-height: 27px;
+  display: inline-block;
+  min-width: 68px;
+}
+.inDepthCoverageOn,
+.longFormArticlesOften {
+  margin: 0;
+}
+.longFormArticlesOftenContainer {
+  position: relative;
+  line-height: 21px;
+  font-weight: 500;
+}
+.whiteELogoWhite1 {
+  height: 172px;
+  width: 182px;
+  position: absolute;
+  margin: 0 !important;
+  top: -103px;
+  right: -12px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.articlesParent,
+.socialMedia {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.socialMedia {
+  flex-direction: row;
+  position: relative;
+  font-size: var(--font-size-sm);
+}
+.articlesParent {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.vectorIcon {
+  width: 34.4px;
+  height: 44.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 24px;
+  left: 17px;
+}
+.divCssEco0c7 {
+  position: absolute;
+  top: 335px;
+  left: 349px;
+  box-shadow: 14px 17px 40px 4px rgba(112, 144, 176, 0.08);
+  border-radius: var(--br-sm);
+  background: linear-gradient(126.01deg, #4c48e3, #8242cc);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 82px var(--padding-mid) var(--padding-13xl);
+  mix-blend-mode: normal;
+  font-size: var(--font-size-lg);
+  color: var(--icon-color);
+}
+.whatDoYou {
+  margin: 0;
+  position: absolute;
+  top: 186px;
+  left: 615px;
+  font-size: 34px;
+  line-height: 26px;
+  font-weight: 700;
+  font-family: inherit;
+  color: var(--color-darkslateblue);
+}
+.engagingBlogPosts,
+.enhanceYourDigital {
+  margin: 0;
+}
+.enhanceYourDigitalContainer {
+  position: absolute;
+  top: 253px;
+  left: 518px;
+  line-height: 21px;
+  font-weight: 500;
+  color: #bcbcbc;
+  text-align: center;
+}
+.bodyChakraUiLightChild,
+.hexOutline1Icon {
+  position: absolute;
+  top: 524px;
+  left: 835px;
+  width: 49px;
+  height: 50px;
+  z-index: 2;
+}
+.hexOutline1Icon {
+  top: -160px;
+  left: 1137px;
+  width: 432px;
+  height: 479px;
+  object-fit: contain;
+  z-index: 1;
+}
+.logo1Icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameParent,
+.logo1Wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.logo1Wrapper {
+  height: 50.2px;
+  width: 186.2px;
+  flex-direction: column;
+  padding: 2px 0 0;
+  box-sizing: border-box;
+}
+.frameParent {
+  position: absolute;
+  top: 36px;
+  left: 48px;
+  width: 1337px;
+  flex-direction: row;
+  gap: 84.8px;
+  max-width: 100%;
+}
+.hexOutline1Icon1 {
+  position: absolute;
+  top: 201px;
+  left: -403px;
+  width: 644.2px;
+  height: 644.2px;
+  object-fit: contain;
+  z-index: 1;
+}
+.bodyChakraUiLight,
+.generate {
+  background-color: var(--color-gray-100);
+  max-width: 100%;
+  mix-blend-mode: normal;
+}
+.bodyChakraUiLight {
+  height: 901px;
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-slategray);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.generate {
+  width: 1425px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 767px) {
+  .whatDoYou {
+    font-size: 27px;
+    line-height: 20px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .whatDoYou {
+    font-size: var(--font-size-xl);
+    line-height: 15px;
+  }
+}

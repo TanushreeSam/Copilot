@@ -1,0 +1,60 @@
+.divCss1c69p5nIcon {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  border-radius: var(--br-31xl);
+  overflow: hidden;
+  flex-shrink: 0;
+  mix-blend-mode: normal;
+}
+.samayPatel {
+  position: relative;
+  line-height: 18px;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 71px;
+}
+.divCss1c69p5nParent,
+.samayPatelWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.samayPatelWrapper {
+  flex-direction: column;
+  padding: var(--padding-5xs-5) 0 0;
+}
+.divCss1c69p5nParent {
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.buttonChakraButtonIcon,
+.buttonMenuButton6Icon {
+  height: 34px;
+  width: 34px;
+  position: relative;
+  border-radius: var(--br-9980xl);
+  mix-blend-mode: normal;
+  min-height: 34px;
+}
+.divCss9wpw97,
+.menuButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.divCss9wpw97 {
+  box-shadow: 4px 17px 40px 4px rgba(112, 144, 176, 0.08);
+  border-radius: var(--br-11xl);
+  background: linear-gradient(126.01deg, #4c48e3, #8242cc);
+  overflow: hidden;
+  padding: var(--padding-sm) var(--padding-mini);
+  gap: var(--gap-xl-8);
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--icon-color);
+  font-family: var(--font-plus-jakarta-sans);
+}
