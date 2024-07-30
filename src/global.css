@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-xs: 12px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-gray-100: #fdfeff;
+  --color-gray-200: #010101;
+  --color-ghostwhite: rgba(244, 247, 254, 0.2);
+  --color-darkslateblue: #1b254b;
+  --color-lightgray: #d0d0d0;
+  --color-silver-100: #b5b5b5;
+  --icon-color: #fff;
+  --color-darkslategray: #2d3748;
+  --color-navy: #11047a;
+  --color-black: #000;
+  --color-slategray: #718096;
+  --color-mediumslateblue: #4c48e3;
+  --color-aliceblue: #e2e8f0;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-smi: 13px;
+  --gap-5xs: 8px;
+  --gap-4xs: 9px;
+  --gap-lg: 18px;
+  --gap-31xl-5: 50.5px;
+  --gap-6xl: 25px;
+  --gap-xs: 12px;
+  --gap-xl-8: 20.8px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-4xs: 9px;
+  --padding-5xs: 8px;
+  --padding-10xl: 29px;
+  --padding-3xs: 10px;
+  --padding-10xs: 3px;
+  --padding-3xl: 22px;
+  --padding-mid: 17px;
+  --padding-2xl: 21px;
+  --padding-13xl: 32px;
+  --padding-17xl: 36px;
+  --padding-9xs: 4px;
+  --padding-xl: 20px;
+  --padding-lgi: 19px;
+  --padding-sm: 14px;
+  --padding-mini: 15px;
+  --padding-5xs-5: 7.5px;
+
+  /* Border radiuses */
+  --br-base: 16px;
+  --br-11xl: 30px;
+  --br-31xl: 50px;
+  --br-sm: 14px;
+  --br-9980xl: 9999px;
+}
